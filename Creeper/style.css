@@ -1,0 +1,10 @@
+body{
+	text-align: center;
+    background-color: aquamarine;
+    font-family: Courier, monospace;
+
+}
+
+.cabeca{
+    border-radius: 60px;
+}
